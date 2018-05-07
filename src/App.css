@@ -1,0 +1,20 @@
+
+
+.headerIcon{
+  color: white;
+}
+
+ul{
+  list-style-type: none;
+}
+
+li{
+  padding: 10px;
+}
+
+.header{
+  background: orange;
+  display: flex;
+  padding: 10px;
+  font-weight: 100;
+}
